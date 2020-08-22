@@ -14,7 +14,7 @@ set pastetoggle=<F2>
 set incsearch
 "packadd! dracula
 syntax enable
-"colorscheme dracul
+"colorscheme dracula
 set background=dark
 "colorscheme gruvbox
 colorscheme default
