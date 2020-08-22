@@ -15,7 +15,7 @@ set incsearch
 "packadd! dracula
 syntax enable
 "colorscheme dracula
-set background=dark
+"set background=dark
 "colorscheme gruvbox
 colorscheme default
-highlight LineNr ctermfg=DarkGrey
+highlight LineNr term=bold cterm=NONE ctermfg=DarkGrey ctermbg=NONE gui=NONE guifg=DarkGrey guibg=NONE
