@@ -1,0 +1,6 @@
+#!/bin/sh
+
+xwallpaper --zoom ~/Pictures/Wallpapers/by_home4_2560.jpg
+status_bar &
+xmodmap ~/.speedswapper
+xset r rate 300 50
