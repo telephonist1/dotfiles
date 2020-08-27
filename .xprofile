@@ -1,0 +1,8 @@
+#!/bin/sh
+
+xwallpaper --zoom ~/Pictures/Wallpapers/by_home5_1920.jpg
+status_bar &
+manage_android &
+redshift &
+xmodmap ~/.speedswapper
+xset r rate 300 50
